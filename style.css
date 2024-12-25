@@ -1,0 +1,44 @@
+
+body{
+	border: 2px solid#db6930;
+     background-color:azure;
+}
+
+h2{
+    /* text-align: center; */
+	font-size: 28px;
+	color: #ff6f00;
+	margin-top: 0; 
+	font-family:'Times New Roman', Times, serif;
+	text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+input:hover{
+	height: 20px;
+	background-color:#f4c7b0;
+	color: rgb(0, 0, 0);
+}
+
+
+
+.contaner{
+    height: 300px;
+    margin: 200px auto;
+	width: 400px;
+	background-color:rgb(181, 210, 237);
+	border-radius: 20px ;
+	box-shadow: 0 0 50px #db6930;
+	padding: 20px;
+	border: 10px transparent black;
+	
+    
+    
+    
+}
+
+.fp{
+	float: right;
+}
+
+.singup_link{
+	float: right;
+}
